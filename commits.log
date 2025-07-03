@@ -1,0 +1,98 @@
+commit dd3abebe4cdec650d6080ebe61909f85d3e82242
+Author: Salomon Sepulveda <codeofsjsr@gmail.com>
+Date:   Wed Jul 2 22:16:57 2025 -0400
+
+    Agregando 2 parrafos
+
+commit 91d3265c9cf25955c39cf2186dd879a9c9263624
+Merge: f2990a5 1a9c72a
+Author: Salomon Sepulveda <codeofsjsr@gmail.com>
+Date:   Wed Jul 2 17:06:17 2025 -0400
+
+    resolviendo conflicto en estaciones del año y fecha de inicio
+
+commit f2990a5d80bb503d5d198c7452473f168dc45b0f
+Author: Salomon Sepulveda <codeofsjsr@gmail.com>
+Date:   Wed Jul 2 16:23:29 2025 -0400
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 1a9c72a838182eb1c817179b58d1bde8064d1d93
+Author: Salomon Sepulveda <codeofsjsr@gmail.com>
+Date:   Wed Jul 2 16:23:29 2025 -0400
+
+    Agregando las estaciones del año
+
+commit 83a2b00a25e1b19ed25cc25b31349203d8136e1e
+Merge: 5b7b387 af0e812
+Author: Salomon Sepulveda <codeofsjsr@gmail.com>
+Date:   Wed Jun 25 22:58:59 2025 -0400
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit af0e812fa2b60ac29b4922481cf40865ea51a358
+Author: Salomon Sepulveda <codeofsjsr@gmail.com>
+Date:   Wed Jun 25 22:53:06 2025 -0400
+
+    Agregando index.js al index.html
+
+commit 5b7b387e6a26d42acca02c88f1c7155d79d72fea
+Author: Salomon Sepulveda <codeofsjsr@gmail.com>
+Date:   Wed Jun 25 22:47:52 2025 -0400
+
+    Agregando style.css al index.html
+
+commit 18fd89b52c793c64798829779d30dd41d3183cd2
+Merge: 458659f f5babc8
+Author: Salomon Sepulveda <codeofsjsr@gmail.com>
+Date:   Wed Jun 25 22:15:42 2025 -0400
+
+    Merge branch 'js'
+
+commit f5babc85c45eb2e12bee4693a3ae419b941a6aa4
+Author: Salomon Sepulveda <codeofsjsr@gmail.com>
+Date:   Wed Jun 25 21:50:08 2025 -0400
+
+    Creando script.js
+
+commit 458659ffc49706acdf486a354712a6940338acfe
+Author: Salomon Sepulveda <codeofsjsr@gmail.com>
+Date:   Wed Jun 25 21:32:50 2025 -0400
+
+    Creando style.css
+
+commit b50ebcb7577f4b6da570e47e1fc94c5ac1b4e1be
+Author: Salomon Sepulveda <codeofsjsr@gmail.com>
+Date:   Wed Jun 25 21:27:43 2025 -0400
+
+    Creando archivo html
+
+commit 9b913bfaa14eac536c7c97694cd3297a6cc88fa3
+Author: Salomon Sepulveda <codeofsjsr@gmail.com>
+Date:   Wed Jun 25 19:53:07 2025 -0400
+
+    Ignorando archivos .exe
+
+commit 9324d74b4b4e642656f37c0c805e6dfcc707a714
+Author: codeofrain <codeofsjsr@gmail.com>
+Date:   Tue Jun 24 20:54:30 2025 -0400
+
+    Creando licencia del repositorio
+
+commit 58e03098584f59537c1fe3173e6feea44538cc08
+Author: Salomon Sepulveda <codeofsjsr@gmail.com>
+Date:   Tue Jun 24 20:48:45 2025 -0400
+
+    Agregando mas contenido al READMI
+
+commit 509a71b2e1089d39d1a059863b6c719007538cd8
+Author: Salomon Sepulveda <codeofsjsr@gmail.com>
+Date:   Tue Jun 24 20:34:00 2025 -0400
+
+    Agregando contenido inicial al READMI
+
+commit 680d4e3bb1948ef564df7344f38ac692aae03707
+Author: Salomon Sepulveda <codeofsjsr@gmail.com>
+Date:   Tue Jun 24 20:28:14 2025 -0400
+
+    Primer commit 😀
